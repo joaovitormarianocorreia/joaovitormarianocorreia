@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joaovitormarianocorreia
-- 👀 I’m interested in machine learning, deep learning, computer vision and robotic
-- 🌱 I’m currently learning deep learning applied to robot control
+- 👀 I’m interested in nlp and robotics
 - 📫 How to reach me joaovitormarianocorreia@gmail.com
 
 <!---
